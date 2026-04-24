@@ -4,15 +4,6 @@
 
 This project provides program and demo for Breast Cancer prediction with T-Classifier. Visitor inputs TRB VDJTOOLS sample, and the program will output the BC score and risk level.
 
-## Add your files
-
-```
-cd existing_repo
-git remote add origin http://192.168.0.170:6080/deeplearning/modelrep/tcl4bc.git
-git branch -M main
-git push -uf origin main
-```
-
 ## Usage
 
 ```
