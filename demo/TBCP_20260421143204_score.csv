@@ -1,0 +1,2 @@
+sample_id,index_score,vdj_score,label,tcl_score,final_score,predict_label
+tbcp_demo_001,10.836256912162892,41.93638732815543,demo,53.045420044698346,39.27176783328342,阴性
