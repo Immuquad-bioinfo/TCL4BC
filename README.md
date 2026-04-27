@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project provides program and demo for Breast Cancer prediction with T-Classifier. Visitor inputs TRB VDJTOOLS sample, and the program will output the BC score and risk level.
+This project provides program and demo for Breast Cancer prediction with T-Classifier. Visitor inputs TRB sample, and the program will output the BC score and risk level.
 
 ## Usage
 
