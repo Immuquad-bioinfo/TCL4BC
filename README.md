@@ -1,16 +1,16 @@
-# TCL4BC: TCL For BC
+# ImmuScan-BC: Immune Algorithm for Early Breast Cancer Detection
 
 ## Introduction
 
-This project provides program and demo for Breast Cancer prediction with T-Classifier. Visitor inputs TRB sample, and the program will output the BC score and risk level.
+This project provides program and demo for Breast Cancer prediction based on immune repertoire. Visitor inputs TRB sample, and the program will output the BC score and risk level.
 
 ## Usage
 
 ```
 
-usage: tcl4bc_predict.py [-h] -i I -o O
+usage: immuscan_bc.py [-h] -i I -o O
 
-TCL4BC predict program
+ImmuScan-BC predict program
 
 options:
   -h, --help  show this help message and exit

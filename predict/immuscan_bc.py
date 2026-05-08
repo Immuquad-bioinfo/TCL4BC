@@ -5,7 +5,7 @@ import argparse
 import datetime
 
 def argparse_analyse():
-    parser = argparse.ArgumentParser(description='TCL4BC predict program')
+    parser = argparse.ArgumentParser(description='ImmuScan-BC predict program')
     parser.add_argument('-i', type=str, required=True, help='sample_path')
     parser.add_argument('-o', type=str, required=True, help='output_path')
     args = parser.parse_args()
